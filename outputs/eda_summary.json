@@ -1,0 +1,30 @@
+{
+  "shape": {
+    "rows": 116,
+    "columns": 11
+  },
+  "missing_values": {
+    "ticket_id": 0,
+    "title": 0,
+    "body": 0,
+    "labels": 8,
+    "state": 0,
+    "author": 0,
+    "created_at": 0,
+    "updated_at": 0,
+    "url": 0,
+    "Ticket Description": 0,
+    "clean_description": 0
+  },
+  "duplicate_records": 0,
+  "description_length_distribution": {
+    "count": 116.0,
+    "mean": 1619.405172413793,
+    "std": 1308.2161035311524,
+    "min": 43.0,
+    "25%": 743.75,
+    "50%": 1434.5,
+    "75%": 1992.75,
+    "max": 7790.0
+  }
+}

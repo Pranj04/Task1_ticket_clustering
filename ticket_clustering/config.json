@@ -1,0 +1,10 @@
+{
+  "model_name": "all-MiniLM-L6-v2",
+  "number_of_clusters": 10,
+  "random_seed": 42,
+  "output_dir": "outputs",
+  "text_columns": ["title", "body"],
+  "batch_size": 32,
+  "examples_per_cluster": 3
+}
+
